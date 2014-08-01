@@ -1,0 +1,15 @@
+{
+  "name": "Ged.App.WebApi",
+  "version": "0.0.0",
+  "description": "Ged.App.WebApi",
+  "main": "app.js",
+  "author": {
+    "name": "guilherme.barros",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
